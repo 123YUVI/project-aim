@@ -1,0 +1,42 @@
+/* admin login page css */
+.aim{
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.a-image{
+    position: relative;
+    height: 800px;
+    width: 100%;
+    margin-left: px;
+    top: 3px;
+}
+.admin_img{
+   height: 710px;
+}
+.admin_img img{
+    padding-top: 120px;
+}
+
+.s-class{
+    position: relative;
+}
+/* login css */
+.b-1{
+    height: 700px;
+}
+.form1{
+    margin-top: 100px;
+}
+.r1{
+    margin-left: 120px;
+}
+.con-btn{
+    height: 50px;
+    width:200px;
+    border-radius: 100px;
+}
+.r-btn{
+    height: 50px;
+    width:200px;
+    border-radius: 100px;
+}
